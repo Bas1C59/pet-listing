@@ -8,7 +8,7 @@ This project is a React-based web application for pet-listing. It allows users t
 ![Home Page](./screenshots/home-page.jpg)
 
 ### Search Results
-![Search Results](./screenshots/search-results.jpg)
+![Search Results](./screenshots/search-result.jpg)
 
 ### Pet Details
 ![Pet Details](./screenshots/pet-details.jpg)
