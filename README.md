@@ -5,13 +5,13 @@ This project is a React-based web application for pet-listing. It allows users t
 ## Application Preview
 
 ### Home Page / Search
-![Home Page](./screenshots/home-page.png)
+![Home Page](./screenshots/home-page.jpg)
 
 ### Search Results
-![Search Results](./screenshots/search-results.png)
+![Search Results](./screenshots/search-results.jpg)
 
 ### Pet Details
-![Pet Details](./screenshots/pet-details.png)
+![Pet Details](./screenshots/pet-details.jpg)
 
 
 ## Setup and Running the Project
